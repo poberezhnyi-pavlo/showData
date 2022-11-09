@@ -15,7 +15,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Test\\Show\\Providers\\ServiceProvider"
+        "Test\\Show\\Providers\\ShowDataServiceProvider"
       ]
     }
   }
