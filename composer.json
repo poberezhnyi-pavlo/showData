@@ -10,14 +10,6 @@
     }
   ],
   "require": {
-    "php": "^8.0",
-    "illuminate/support": "^v8.8"
-  },
-  "extra": {
-    "laravel": {
-      "providers": [
-        "Test\\Show\\Providers\\ShowDataServiceProvider"
-      ]
-    }
+    "php": "^8.0"
   }
 }
